@@ -2,4 +2,5 @@
 
 ## Ejercicios
 
-### MODELO ENTIDAD - RELACIÓN
+### MODELO ENTIDAD - RELACIÓN  
+[Ingrese aqui](entidad_relacion.md)
