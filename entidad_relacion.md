@@ -1,7 +1,10 @@
 # **EJERCICIOS**
 
 ## **Ejemplo 1: Sistema de Biblioteca**
-Una biblioteca registra libros y autores. Un libro puede tener varios autores y un autor varios libros. Los socios toman libros prestados; de cada préstamo interesan la fecha de retiro y la de devolución.
+Una biblioteca registra libros y autores. Un libro puede tener varios autores y un autor varios libros. Los socios toman libros prestados; de cada préstamo interesan la fecha de retiro y la de devolución.  
+
+<img width="333" height="340" alt="image" src="https://github.com/user-attachments/assets/b0f3d674-db5f-4ab2-806e-c0aa7cdc9f7d" />
+
 
 
 ## **Ejemplo 2: Pedidos de Restaurante**
