@@ -6,4 +6,8 @@
 ---
 
 ### MODELO ENTIDAD - RELACIÓN  
-[Ingrese aqui](entidad_relacion.md)
+[Ingrese aqui para ver los ejercicios en .md](entidad_relacion.md)  
+
+**Ejercicios en formato .odt**
+[Ejercicios_EntidadRelacion_Chillogallo_BD.odt](https://github.com/user-attachments/files/33581744/Ejercicios_EntidadRelacion_Chillogallo_BD.odt)
+
