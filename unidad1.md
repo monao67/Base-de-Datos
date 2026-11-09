@@ -15,4 +15,6 @@
 [Ingrese aqui para ver los ejercicios en .md](relacional.md)
 ---
 ### Proyecto Unidad 1
-[Ingrese aqui para ver el informe](proyecto_U1.md)
+[Ingrese aqui para ver el informe](proyecto_U1.md)  
+---
+[Ingrese aqui para ver los codigos SQL](codigosTablas.sql)
