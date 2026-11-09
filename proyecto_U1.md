@@ -17,4 +17,7 @@
 
 <img width="656" height="620" alt="Relacional_BoletoMania drawio(1)" src="https://github.com/user-attachments/assets/91375444-77bd-41a1-bc93-55f1496be27c" />
 
+## Codigo SQL
+[Codigos SQL](codigosTablas.sql)
+
 
